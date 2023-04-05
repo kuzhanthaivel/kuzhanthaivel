@@ -19,15 +19,15 @@ Here are some ideas to get you started:
 <table align="center">
   <tr>
     <td align="center" width="1000">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manicdon7&show_icons=true&locale=en&layout=compact" alt="manicdon7" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuzhanthaivel&show_icons=true&locale=en&layout=compact" alt="manicdon7" /></p>
 </td>
 <tr>
     <td align="center" width="1000">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manicdon7&show_icons=true&locale=en" alt="manicdon7" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuzhanthaivel&show_icons=true&locale=en" alt="manicdon7" /></p>
 </td>
 <tr>
     <td align="center" width="1000">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manicdon7&" alt="manicdon7" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuzhanthaivel&" alt="manicdon7" /></p>
 </td>
 <tr>
     <td align="center" width="1000">
