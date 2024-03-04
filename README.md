@@ -2,6 +2,9 @@
 <h3 align="center">Passionate for innovation, A boy trying to figure-out stuff!!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kuzhanthaivel&label=Profile%20views&color=0e75b6&style=flat" alt="kuzhanthaivel" /> </p>
+
+
+
 <a href="#kuzhanthaivel">
   <img src="https://github-readme-stats.vercel.app/api?username=kuzhanthaivel&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="kuzhanthaivel" align="right" />
 </a>
