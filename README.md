@@ -5,9 +5,6 @@
 
 
 
-<a href="#kuzhanthaivel">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuzhanthaivel&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="kuzhanthaivel" align="right" />
-</a>
 
 <!--
 **kuzhanthaivel/kuzhanthaivel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
