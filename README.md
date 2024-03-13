@@ -2,7 +2,15 @@
 <h3 align="center">Passionate for innovation, A boy trying to figure-out stuff!!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kuzhanthaivel&label=Profile%20views&color=0e75b6&style=flat" alt="kuzhanthaivel" /> </p>
+- 👯 I’m looking to collaborate with **New things**
 
+- 🌱 I’m currently pursing **B.E(CSE) in Jaya Engineering College**
+
+- 💻 Connect with me on [https://www.linkedin.com/in/kuzhanthai-vel-38844024a/](https://www.linkedin.com/in/kuzhanthai-vel-38844024a/)   [https://twitter.com/Kuzhant007)](https://twitter.com/Kuzhant007)
+
+- 📫 Reach me on **kuzhanthaivel272@gamil.com**
+
+- 👨‍💻 All of my projects are available at **https://github.com/kuzhanthaivel**
 
 
 
