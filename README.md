@@ -239,29 +239,24 @@ Here are some ideas to get you started:
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
 
-
 <div align="center">
-    <a href="https://connect-two-phi.vercel.app/" >
-        <h2>Connect with me</h2>
-    </a>
+   <h2> <a href="https://connect-two-phi.vercel.app/" >
+        Connect with me
+    </a></h2>
 </div><div align="center">
-    <a href="https://connect-two-phi.vercel.app/" >
-        <h2>Connect with me</h2>
-    </a>
+   <h2> <a href="https://connect-two-phi.vercel.app/" >
+        Connect with me
+    </a></h2>
 </div><div align="center">
-    <a href="https://connect-two-phi.vercel.app/" >
-        <h2>Connect with me</h2>
-    </a>
+   <h2> <a href="https://connect-two-phi.vercel.app/" >
+        Connect with me
+    </a></h2>
 </div><div align="center">
-    <a href="https://connect-two-phi.vercel.app/" >
-        <h2>Connect with me</h2>
-    </a>
+   <h2> <a href="https://connect-two-phi.vercel.app/" >
+        Connect with me
+    </a></h2>
 </div><div align="center">
-    <a href="https://connect-two-phi.vercel.app/" >
-        <h2>Connect with me</h2>
-    </a>
-</div><div align="center">
-    <a href="https://connect-two-phi.vercel.app/" >
-        <h2>Connect with me</h2>
-    </a>
+   <h2> <a href="https://connect-two-phi.vercel.app/" >
+        Connect with me
+    </a></h2>
 </div>
