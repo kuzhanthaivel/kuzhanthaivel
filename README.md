@@ -181,3 +181,9 @@ Passionate about innovation and constantly exploring new technologies!
 Feel free to reach out to discuss collaborations or just to say hi! Let's connect on [LinkedIn](https://www.linkedin.com/in/kuzhanthai-vel-38844024a/) or [Twitter](https://twitter.com/Kuzhant007).
 
 📧 Email: kuzhanthaivel272@gmail.com
+
+---
+Thanks for visiting my profile! 😊
+---
+
+---
