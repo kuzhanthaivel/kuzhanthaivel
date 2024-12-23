@@ -203,7 +203,3 @@ Thanks for visiting my profile! 😊
 
 
 
-
-# Contribution
-
-![snake gif](https://raw.githubusercontent.com/kuzhanthaivel/kuzhanthaivel/eb8842c58262cfc3019e5c91b9202948fe437254/github-contribution-grid-snake.svg)
